@@ -1,0 +1,15 @@
+/Users/gormuradxanyan/Projects/Homeworks/Threds/bin/Debug/net9.0/Threds
+/Users/gormuradxanyan/Projects/Homeworks/Threds/bin/Debug/net9.0/Threds.deps.json
+/Users/gormuradxanyan/Projects/Homeworks/Threds/bin/Debug/net9.0/Threds.runtimeconfig.json
+/Users/gormuradxanyan/Projects/Homeworks/Threds/bin/Debug/net9.0/Threds.dll
+/Users/gormuradxanyan/Projects/Homeworks/Threds/bin/Debug/net9.0/Threds.pdb
+/Users/gormuradxanyan/Projects/Homeworks/Threds/obj/Debug/net9.0/Threds.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gormuradxanyan/Projects/Homeworks/Threds/obj/Debug/net9.0/Threds.AssemblyInfoInputs.cache
+/Users/gormuradxanyan/Projects/Homeworks/Threds/obj/Debug/net9.0/Threds.AssemblyInfo.cs
+/Users/gormuradxanyan/Projects/Homeworks/Threds/obj/Debug/net9.0/Threds.csproj.CoreCompileInputs.cache
+/Users/gormuradxanyan/Projects/Homeworks/Threds/obj/Debug/net9.0/Threds.sourcelink.json
+/Users/gormuradxanyan/Projects/Homeworks/Threds/obj/Debug/net9.0/Threds.dll
+/Users/gormuradxanyan/Projects/Homeworks/Threds/obj/Debug/net9.0/refint/Threds.dll
+/Users/gormuradxanyan/Projects/Homeworks/Threds/obj/Debug/net9.0/Threds.pdb
+/Users/gormuradxanyan/Projects/Homeworks/Threds/obj/Debug/net9.0/Threds.genruntimeconfig.cache
+/Users/gormuradxanyan/Projects/Homeworks/Threds/obj/Debug/net9.0/ref/Threds.dll
