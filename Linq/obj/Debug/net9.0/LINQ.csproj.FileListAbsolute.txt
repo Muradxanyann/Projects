@@ -1,0 +1,14 @@
+/Users/gormuradxanyan/Projects/Homeworks/Linq/bin/Debug/net9.0/LINQ
+/Users/gormuradxanyan/Projects/Homeworks/Linq/bin/Debug/net9.0/LINQ.deps.json
+/Users/gormuradxanyan/Projects/Homeworks/Linq/bin/Debug/net9.0/LINQ.runtimeconfig.json
+/Users/gormuradxanyan/Projects/Homeworks/Linq/bin/Debug/net9.0/LINQ.dll
+/Users/gormuradxanyan/Projects/Homeworks/Linq/bin/Debug/net9.0/LINQ.pdb
+/Users/gormuradxanyan/Projects/Homeworks/Linq/obj/Debug/net9.0/LINQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gormuradxanyan/Projects/Homeworks/Linq/obj/Debug/net9.0/LINQ.AssemblyInfoInputs.cache
+/Users/gormuradxanyan/Projects/Homeworks/Linq/obj/Debug/net9.0/LINQ.AssemblyInfo.cs
+/Users/gormuradxanyan/Projects/Homeworks/Linq/obj/Debug/net9.0/LINQ.csproj.CoreCompileInputs.cache
+/Users/gormuradxanyan/Projects/Homeworks/Linq/obj/Debug/net9.0/LINQ.dll
+/Users/gormuradxanyan/Projects/Homeworks/Linq/obj/Debug/net9.0/refint/LINQ.dll
+/Users/gormuradxanyan/Projects/Homeworks/Linq/obj/Debug/net9.0/LINQ.pdb
+/Users/gormuradxanyan/Projects/Homeworks/Linq/obj/Debug/net9.0/LINQ.genruntimeconfig.cache
+/Users/gormuradxanyan/Projects/Homeworks/Linq/obj/Debug/net9.0/ref/LINQ.dll

@@ -1,0 +1,14 @@
+/Users/gormuradxanyan/Projects/PracticalTasks/LinqPractice/bin/Debug/net9.0/LinqPractice
+/Users/gormuradxanyan/Projects/PracticalTasks/LinqPractice/bin/Debug/net9.0/LinqPractice.deps.json
+/Users/gormuradxanyan/Projects/PracticalTasks/LinqPractice/bin/Debug/net9.0/LinqPractice.runtimeconfig.json
+/Users/gormuradxanyan/Projects/PracticalTasks/LinqPractice/bin/Debug/net9.0/LinqPractice.dll
+/Users/gormuradxanyan/Projects/PracticalTasks/LinqPractice/bin/Debug/net9.0/LinqPractice.pdb
+/Users/gormuradxanyan/Projects/PracticalTasks/LinqPractice/obj/Debug/net9.0/LinqPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gormuradxanyan/Projects/PracticalTasks/LinqPractice/obj/Debug/net9.0/LinqPractice.AssemblyInfoInputs.cache
+/Users/gormuradxanyan/Projects/PracticalTasks/LinqPractice/obj/Debug/net9.0/LinqPractice.AssemblyInfo.cs
+/Users/gormuradxanyan/Projects/PracticalTasks/LinqPractice/obj/Debug/net9.0/LinqPractice.csproj.CoreCompileInputs.cache
+/Users/gormuradxanyan/Projects/PracticalTasks/LinqPractice/obj/Debug/net9.0/LinqPractice.dll
+/Users/gormuradxanyan/Projects/PracticalTasks/LinqPractice/obj/Debug/net9.0/refint/LinqPractice.dll
+/Users/gormuradxanyan/Projects/PracticalTasks/LinqPractice/obj/Debug/net9.0/LinqPractice.pdb
+/Users/gormuradxanyan/Projects/PracticalTasks/LinqPractice/obj/Debug/net9.0/LinqPractice.genruntimeconfig.cache
+/Users/gormuradxanyan/Projects/PracticalTasks/LinqPractice/obj/Debug/net9.0/ref/LinqPractice.dll

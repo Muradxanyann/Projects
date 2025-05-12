@@ -1,0 +1,15 @@
+D:\Jet Brains\Homeworks\School Departament Program\bin\Debug\net9.0\School Departament Program.exe
+D:\Jet Brains\Homeworks\School Departament Program\bin\Debug\net9.0\School Departament Program.deps.json
+D:\Jet Brains\Homeworks\School Departament Program\bin\Debug\net9.0\School Departament Program.runtimeconfig.json
+D:\Jet Brains\Homeworks\School Departament Program\bin\Debug\net9.0\School Departament Program.dll
+D:\Jet Brains\Homeworks\School Departament Program\bin\Debug\net9.0\School Departament Program.pdb
+D:\Jet Brains\Homeworks\School Departament Program\obj\Debug\net9.0\School Departament Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jet Brains\Homeworks\School Departament Program\obj\Debug\net9.0\School Departament Program.AssemblyInfoInputs.cache
+D:\Jet Brains\Homeworks\School Departament Program\obj\Debug\net9.0\School Departament Program.AssemblyInfo.cs
+D:\Jet Brains\Homeworks\School Departament Program\obj\Debug\net9.0\School Departament Program.csproj.CoreCompileInputs.cache
+D:\Jet Brains\Homeworks\School Departament Program\obj\Debug\net9.0\School Departament Program.sourcelink.json
+D:\Jet Brains\Homeworks\School Departament Program\obj\Debug\net9.0\School Departament Program.dll
+D:\Jet Brains\Homeworks\School Departament Program\obj\Debug\net9.0\refint\School Departament Program.dll
+D:\Jet Brains\Homeworks\School Departament Program\obj\Debug\net9.0\School Departament Program.pdb
+D:\Jet Brains\Homeworks\School Departament Program\obj\Debug\net9.0\School Departament Program.genruntimeconfig.cache
+D:\Jet Brains\Homeworks\School Departament Program\obj\Debug\net9.0\ref\School Departament Program.dll

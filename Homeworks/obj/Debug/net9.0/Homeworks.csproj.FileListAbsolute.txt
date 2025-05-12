@@ -1,0 +1,15 @@
+D:\Jet Brains\Homeworks\Homeworks\bin\Debug\net9.0\Homeworks.exe
+D:\Jet Brains\Homeworks\Homeworks\bin\Debug\net9.0\Homeworks.deps.json
+D:\Jet Brains\Homeworks\Homeworks\bin\Debug\net9.0\Homeworks.runtimeconfig.json
+D:\Jet Brains\Homeworks\Homeworks\bin\Debug\net9.0\Homeworks.dll
+D:\Jet Brains\Homeworks\Homeworks\bin\Debug\net9.0\Homeworks.pdb
+D:\Jet Brains\Homeworks\Homeworks\obj\Debug\net9.0\Homeworks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jet Brains\Homeworks\Homeworks\obj\Debug\net9.0\Homeworks.AssemblyInfoInputs.cache
+D:\Jet Brains\Homeworks\Homeworks\obj\Debug\net9.0\Homeworks.AssemblyInfo.cs
+D:\Jet Brains\Homeworks\Homeworks\obj\Debug\net9.0\Homeworks.csproj.CoreCompileInputs.cache
+D:\Jet Brains\Homeworks\Homeworks\obj\Debug\net9.0\Homeworks.dll
+D:\Jet Brains\Homeworks\Homeworks\obj\Debug\net9.0\refint\Homeworks.dll
+D:\Jet Brains\Homeworks\Homeworks\obj\Debug\net9.0\Homeworks.pdb
+D:\Jet Brains\Homeworks\Homeworks\obj\Debug\net9.0\Homeworks.genruntimeconfig.cache
+D:\Jet Brains\Homeworks\Homeworks\obj\Debug\net9.0\ref\Homeworks.dll
+D:\Jet Brains\Homeworks\Homeworks\obj\Debug\net9.0\Homeworks.sourcelink.json
