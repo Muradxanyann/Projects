@@ -1,0 +1,15 @@
+/Users/gormuradxanyan/Projects/Homeworks/Trees/bin/Debug/net9.0/Trees
+/Users/gormuradxanyan/Projects/Homeworks/Trees/bin/Debug/net9.0/Trees.deps.json
+/Users/gormuradxanyan/Projects/Homeworks/Trees/bin/Debug/net9.0/Trees.runtimeconfig.json
+/Users/gormuradxanyan/Projects/Homeworks/Trees/bin/Debug/net9.0/Trees.dll
+/Users/gormuradxanyan/Projects/Homeworks/Trees/bin/Debug/net9.0/Trees.pdb
+/Users/gormuradxanyan/Projects/Homeworks/Trees/obj/Debug/net9.0/Trees.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gormuradxanyan/Projects/Homeworks/Trees/obj/Debug/net9.0/Trees.AssemblyInfoInputs.cache
+/Users/gormuradxanyan/Projects/Homeworks/Trees/obj/Debug/net9.0/Trees.AssemblyInfo.cs
+/Users/gormuradxanyan/Projects/Homeworks/Trees/obj/Debug/net9.0/Trees.csproj.CoreCompileInputs.cache
+/Users/gormuradxanyan/Projects/Homeworks/Trees/obj/Debug/net9.0/Trees.sourcelink.json
+/Users/gormuradxanyan/Projects/Homeworks/Trees/obj/Debug/net9.0/Trees.dll
+/Users/gormuradxanyan/Projects/Homeworks/Trees/obj/Debug/net9.0/refint/Trees.dll
+/Users/gormuradxanyan/Projects/Homeworks/Trees/obj/Debug/net9.0/Trees.pdb
+/Users/gormuradxanyan/Projects/Homeworks/Trees/obj/Debug/net9.0/Trees.genruntimeconfig.cache
+/Users/gormuradxanyan/Projects/Homeworks/Trees/obj/Debug/net9.0/ref/Trees.dll

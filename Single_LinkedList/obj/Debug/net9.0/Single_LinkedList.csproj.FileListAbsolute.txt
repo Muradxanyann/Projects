@@ -1,0 +1,15 @@
+/Users/gormuradxanyan/Projects/Homeworks/Single_LinkedList/bin/Debug/net9.0/Single_LinkedList
+/Users/gormuradxanyan/Projects/Homeworks/Single_LinkedList/bin/Debug/net9.0/Single_LinkedList.deps.json
+/Users/gormuradxanyan/Projects/Homeworks/Single_LinkedList/bin/Debug/net9.0/Single_LinkedList.runtimeconfig.json
+/Users/gormuradxanyan/Projects/Homeworks/Single_LinkedList/bin/Debug/net9.0/Single_LinkedList.dll
+/Users/gormuradxanyan/Projects/Homeworks/Single_LinkedList/bin/Debug/net9.0/Single_LinkedList.pdb
+/Users/gormuradxanyan/Projects/Homeworks/Single_LinkedList/obj/Debug/net9.0/Single_LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gormuradxanyan/Projects/Homeworks/Single_LinkedList/obj/Debug/net9.0/Single_LinkedList.AssemblyInfoInputs.cache
+/Users/gormuradxanyan/Projects/Homeworks/Single_LinkedList/obj/Debug/net9.0/Single_LinkedList.AssemblyInfo.cs
+/Users/gormuradxanyan/Projects/Homeworks/Single_LinkedList/obj/Debug/net9.0/Single_LinkedList.csproj.CoreCompileInputs.cache
+/Users/gormuradxanyan/Projects/Homeworks/Single_LinkedList/obj/Debug/net9.0/Single_LinkedList.sourcelink.json
+/Users/gormuradxanyan/Projects/Homeworks/Single_LinkedList/obj/Debug/net9.0/Single_LinkedList.dll
+/Users/gormuradxanyan/Projects/Homeworks/Single_LinkedList/obj/Debug/net9.0/refint/Single_LinkedList.dll
+/Users/gormuradxanyan/Projects/Homeworks/Single_LinkedList/obj/Debug/net9.0/Single_LinkedList.pdb
+/Users/gormuradxanyan/Projects/Homeworks/Single_LinkedList/obj/Debug/net9.0/Single_LinkedList.genruntimeconfig.cache
+/Users/gormuradxanyan/Projects/Homeworks/Single_LinkedList/obj/Debug/net9.0/ref/Single_LinkedList.dll

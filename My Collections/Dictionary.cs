@@ -92,7 +92,8 @@ public class MyDictionary<T, U> : IEnumerable<KeyValuePair<T, U>>
         }
     }
 
-    IEnumerator IEnumerable.GetEnumerator()
+
+    System.Collections.IEnumerator System.Collections.IEnumerable.GetEnumerator()
     {
         return GetEnumerator();
     }

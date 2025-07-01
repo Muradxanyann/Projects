@@ -1,0 +1,15 @@
+/Users/gormuradxanyan/Projects/Homeworks/Double_LinkedList/bin/Debug/net9.0/Double_LinkedList
+/Users/gormuradxanyan/Projects/Homeworks/Double_LinkedList/bin/Debug/net9.0/Double_LinkedList.deps.json
+/Users/gormuradxanyan/Projects/Homeworks/Double_LinkedList/bin/Debug/net9.0/Double_LinkedList.runtimeconfig.json
+/Users/gormuradxanyan/Projects/Homeworks/Double_LinkedList/bin/Debug/net9.0/Double_LinkedList.dll
+/Users/gormuradxanyan/Projects/Homeworks/Double_LinkedList/bin/Debug/net9.0/Double_LinkedList.pdb
+/Users/gormuradxanyan/Projects/Homeworks/Double_LinkedList/obj/Debug/net9.0/Double_LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gormuradxanyan/Projects/Homeworks/Double_LinkedList/obj/Debug/net9.0/Double_LinkedList.AssemblyInfoInputs.cache
+/Users/gormuradxanyan/Projects/Homeworks/Double_LinkedList/obj/Debug/net9.0/Double_LinkedList.AssemblyInfo.cs
+/Users/gormuradxanyan/Projects/Homeworks/Double_LinkedList/obj/Debug/net9.0/Double_LinkedList.csproj.CoreCompileInputs.cache
+/Users/gormuradxanyan/Projects/Homeworks/Double_LinkedList/obj/Debug/net9.0/Double_LinkedList.sourcelink.json
+/Users/gormuradxanyan/Projects/Homeworks/Double_LinkedList/obj/Debug/net9.0/Double_LinkedList.dll
+/Users/gormuradxanyan/Projects/Homeworks/Double_LinkedList/obj/Debug/net9.0/refint/Double_LinkedList.dll
+/Users/gormuradxanyan/Projects/Homeworks/Double_LinkedList/obj/Debug/net9.0/Double_LinkedList.pdb
+/Users/gormuradxanyan/Projects/Homeworks/Double_LinkedList/obj/Debug/net9.0/Double_LinkedList.genruntimeconfig.cache
+/Users/gormuradxanyan/Projects/Homeworks/Double_LinkedList/obj/Debug/net9.0/ref/Double_LinkedList.dll
