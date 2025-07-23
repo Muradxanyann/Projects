@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Test")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Trees")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99f44c03d0b0730c7811946fd31e24777a5d6161")]
-[assembly: System.Reflection.AssemblyProductAttribute("Test")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Test")]
+[assembly: System.Reflection.AssemblyProductAttribute("Trees")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Trees")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
