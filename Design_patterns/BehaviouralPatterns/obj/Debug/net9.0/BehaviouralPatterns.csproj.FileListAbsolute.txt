@@ -1,0 +1,15 @@
+/Users/gormuradxanyan/Projects/Homeworks/Design_Pat_task/BehaviouralPatterns/bin/Debug/net9.0/BehaviouralPatterns
+/Users/gormuradxanyan/Projects/Homeworks/Design_Pat_task/BehaviouralPatterns/bin/Debug/net9.0/BehaviouralPatterns.deps.json
+/Users/gormuradxanyan/Projects/Homeworks/Design_Pat_task/BehaviouralPatterns/bin/Debug/net9.0/BehaviouralPatterns.runtimeconfig.json
+/Users/gormuradxanyan/Projects/Homeworks/Design_Pat_task/BehaviouralPatterns/bin/Debug/net9.0/BehaviouralPatterns.dll
+/Users/gormuradxanyan/Projects/Homeworks/Design_Pat_task/BehaviouralPatterns/bin/Debug/net9.0/BehaviouralPatterns.pdb
+/Users/gormuradxanyan/Projects/Homeworks/Design_Pat_task/BehaviouralPatterns/obj/Debug/net9.0/BehaviouralPatterns.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gormuradxanyan/Projects/Homeworks/Design_Pat_task/BehaviouralPatterns/obj/Debug/net9.0/BehaviouralPatterns.AssemblyInfoInputs.cache
+/Users/gormuradxanyan/Projects/Homeworks/Design_Pat_task/BehaviouralPatterns/obj/Debug/net9.0/BehaviouralPatterns.AssemblyInfo.cs
+/Users/gormuradxanyan/Projects/Homeworks/Design_Pat_task/BehaviouralPatterns/obj/Debug/net9.0/BehaviouralPatterns.csproj.CoreCompileInputs.cache
+/Users/gormuradxanyan/Projects/Homeworks/Design_Pat_task/BehaviouralPatterns/obj/Debug/net9.0/BehaviouralPatterns.sourcelink.json
+/Users/gormuradxanyan/Projects/Homeworks/Design_Pat_task/BehaviouralPatterns/obj/Debug/net9.0/BehaviouralPatterns.dll
+/Users/gormuradxanyan/Projects/Homeworks/Design_Pat_task/BehaviouralPatterns/obj/Debug/net9.0/refint/BehaviouralPatterns.dll
+/Users/gormuradxanyan/Projects/Homeworks/Design_Pat_task/BehaviouralPatterns/obj/Debug/net9.0/BehaviouralPatterns.pdb
+/Users/gormuradxanyan/Projects/Homeworks/Design_Pat_task/BehaviouralPatterns/obj/Debug/net9.0/BehaviouralPatterns.genruntimeconfig.cache
+/Users/gormuradxanyan/Projects/Homeworks/Design_Pat_task/BehaviouralPatterns/obj/Debug/net9.0/ref/BehaviouralPatterns.dll
