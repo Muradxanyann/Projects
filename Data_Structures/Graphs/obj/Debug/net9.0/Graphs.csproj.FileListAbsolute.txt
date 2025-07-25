@@ -1,0 +1,15 @@
+/Users/gormuradxanyan/Projects/Homeworks/Data_Structures/Graphs/bin/Debug/net9.0/Graphs
+/Users/gormuradxanyan/Projects/Homeworks/Data_Structures/Graphs/bin/Debug/net9.0/Graphs.deps.json
+/Users/gormuradxanyan/Projects/Homeworks/Data_Structures/Graphs/bin/Debug/net9.0/Graphs.runtimeconfig.json
+/Users/gormuradxanyan/Projects/Homeworks/Data_Structures/Graphs/bin/Debug/net9.0/Graphs.dll
+/Users/gormuradxanyan/Projects/Homeworks/Data_Structures/Graphs/bin/Debug/net9.0/Graphs.pdb
+/Users/gormuradxanyan/Projects/Homeworks/Data_Structures/Graphs/obj/Debug/net9.0/Graphs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gormuradxanyan/Projects/Homeworks/Data_Structures/Graphs/obj/Debug/net9.0/Graphs.AssemblyInfoInputs.cache
+/Users/gormuradxanyan/Projects/Homeworks/Data_Structures/Graphs/obj/Debug/net9.0/Graphs.AssemblyInfo.cs
+/Users/gormuradxanyan/Projects/Homeworks/Data_Structures/Graphs/obj/Debug/net9.0/Graphs.csproj.CoreCompileInputs.cache
+/Users/gormuradxanyan/Projects/Homeworks/Data_Structures/Graphs/obj/Debug/net9.0/Graphs.sourcelink.json
+/Users/gormuradxanyan/Projects/Homeworks/Data_Structures/Graphs/obj/Debug/net9.0/Graphs.dll
+/Users/gormuradxanyan/Projects/Homeworks/Data_Structures/Graphs/obj/Debug/net9.0/refint/Graphs.dll
+/Users/gormuradxanyan/Projects/Homeworks/Data_Structures/Graphs/obj/Debug/net9.0/Graphs.pdb
+/Users/gormuradxanyan/Projects/Homeworks/Data_Structures/Graphs/obj/Debug/net9.0/Graphs.genruntimeconfig.cache
+/Users/gormuradxanyan/Projects/Homeworks/Data_Structures/Graphs/obj/Debug/net9.0/ref/Graphs.dll
