@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/gormuradxanyan/Projects/Homeworks/Test/Test.csproj": {}
+    "/Users/gormuradxanyan/Projects/Homeworks/Data_Structures/Stack/Stack.csproj": {}
   },
   "projects": {
-    "/Users/gormuradxanyan/Projects/Homeworks/Test/Test.csproj": {
+    "/Users/gormuradxanyan/Projects/Homeworks/Data_Structures/Stack/Stack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gormuradxanyan/Projects/Homeworks/Test/Test.csproj",
-        "projectName": "Test",
-        "projectPath": "/Users/gormuradxanyan/Projects/Homeworks/Test/Test.csproj",
+        "projectUniqueName": "/Users/gormuradxanyan/Projects/Homeworks/Data_Structures/Stack/Stack.csproj",
+        "projectName": "Stack",
+        "projectPath": "/Users/gormuradxanyan/Projects/Homeworks/Data_Structures/Stack/Stack.csproj",
         "packagesPath": "/Users/gormuradxanyan/.nuget/packages/",
-        "outputPath": "/Users/gormuradxanyan/Projects/Homeworks/Test/obj/",
+        "outputPath": "/Users/gormuradxanyan/Projects/Homeworks/Data_Structures/Stack/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/gormuradxanyan/.nuget/NuGet/NuGet.Config"

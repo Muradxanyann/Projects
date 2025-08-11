@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/gormuradxanyan/Projects/Homeworks/Test/Test.csproj",
-      "projectName": "Test",
-      "projectPath": "/Users/gormuradxanyan/Projects/Homeworks/Test/Test.csproj",
+      "projectUniqueName": "/Users/gormuradxanyan/Projects/Homeworks/Data_Structures/Queue/Queue.csproj",
+      "projectName": "Queue",
+      "projectPath": "/Users/gormuradxanyan/Projects/Homeworks/Data_Structures/Queue/Queue.csproj",
       "packagesPath": "/Users/gormuradxanyan/.nuget/packages/",
-      "outputPath": "/Users/gormuradxanyan/Projects/Homeworks/Test/obj/",
+      "outputPath": "/Users/gormuradxanyan/Projects/Homeworks/Data_Structures/Queue/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/gormuradxanyan/.nuget/NuGet/NuGet.Config"

@@ -1,4 +1,6 @@
-﻿class Graph
+﻿using System.Security.Principal;
+
+class Graph
 {
     private Dictionary<int, List<int>> graph = new();
     public readonly bool IsWeighted;
@@ -153,10 +155,10 @@
         return false;
     }
 
-    public bool HasCycle(int start)
+    public bool HasCycle()
     {
         HashSet<int> visited = new();
-        bool[] onStack = new bool[Size];
+        bool[] finishingOrder = new bool[Size];
         bool hasCycle = false;
 
         foreach (var key in graph.Keys)
@@ -165,7 +167,7 @@
             {
                 if (IsDirected) //for Directed graph case
                 {
-                    if (HasCycleInDirected(key, graph, visited, onStack))
+                    if (HasCycleInDirected(key, graph, visited, finishingOrder))
                     {
                         hasCycle = true;
                         break;
@@ -202,22 +204,21 @@
         return false;
     }
 
-    private bool HasCycleInDirected(int start, Dictionary<int, List<int>> graph, HashSet<int> visited, bool[] onStack)
+    private bool HasCycleInDirected(int start, Dictionary<int, List<int>> graph, HashSet<int> visited, bool[] finishingOrder)
     {
         visited.Add(start);
-        onStack[start] = true;
+        finishingOrder[start] = true;
         foreach (var node in graph[start])
         {
             if (!visited.Contains(node))
             {
-
-                if (HasCycleInDirected(node, graph, visited, onStack))
+                if (HasCycleInDirected(node, graph, visited, finishingOrder))
                     return true;
             }
-            else if (onStack[node])
+            else if (finishingOrder[node])
                 return true;
         }
-        onStack[start] = false;
+        finishingOrder[start] = false;
         return false;
     }
 
@@ -248,6 +249,148 @@
         }
         visited.Remove(u);
         temp.Remove(temp.Count - 1);
+    }
+
+    public List<int> TopologicalSort()
+    {
+        if (HasCycle())
+            throw new InvalidOperationException("In cyclic graph we cant do topological sort");
+        if (Size == 0)
+            throw new InvalidOperationException("Graph is empty. Nothing to sort.");
+        HashSet<int> visited = new();
+        List<int> result = new();
+        foreach (var node in graph.Keys)
+        {
+            if (!visited.Contains(node))
+            {
+                Dfs(node, visited, result);
+            }
+        }
+        result.Reverse();
+        return result;
+    }
+
+    private void Dfs(int node, HashSet<int> visited, List<int> result)
+    {
+        visited.Add(node);
+        foreach (var item in graph[node])
+        {
+            if (!visited.Contains(item))
+            {
+                Dfs(item, visited, result);
+            }
+        }
+        result.Add(node);
+    }
+
+    public List<int> TopologicalSortKahnsVersion()
+    {
+        Dictionary<int, int> inDegree = new();
+        foreach (var item in graph.Keys)
+            inDegree[item] = 0;
+
+
+        foreach (var node in graph.Keys)
+        {
+            foreach (var neighbor in graph[node])
+            {
+                inDegree[neighbor]++;
+            }
+        }
+
+        Queue<int> queue = new();
+        foreach (var node in inDegree)
+        {
+            if (node.Value == 0)
+                queue.Enqueue(node.Key);
+        }
+
+        List<int> sorted = new();
+        while (queue.Count > 0)
+        {
+            var node = queue.Dequeue();
+            sorted.Add(node);
+            foreach (var item in graph[node])
+            {
+                inDegree[item]--;
+                if (inDegree[item] == 0)
+                    queue.Enqueue(item);
+            }
+        }
+        if (Size != sorted.Count)
+            throw new Exception("Cycle detected!");
+        return sorted;
+
+    }
+
+    public List<List<int>> SCC()
+    {
+        if (!IsDirected)
+            throw new Exception("This algorithm doesn`t work with undirected graphs");
+        Stack<int> finishingOrder = new();
+        HashSet<int> visited = new();
+        Dictionary<int, List<int>> newGraph = new();
+        List<List<int>> SccList = new();
+        //First DFS1
+        foreach (var item in graph.Keys)
+        {
+            if (!visited.Contains(item))
+            {
+                DFS1(item, visited, finishingOrder);
+            }
+        }
+
+        // Transpose
+        foreach (var u in graph.Keys)
+        {
+            foreach (var v in graph[u])
+            {
+                if (!newGraph.ContainsKey(v))
+                    newGraph[v] = new List<int>();
+                newGraph[v].Add(u);
+            }
+        }
+        visited.Clear(); 
+       
+        //DFS 2
+        while (finishingOrder.Count > 0)
+        {
+            var node = finishingOrder.Pop();
+            if (!visited.Contains(node))
+            {
+                var component = new List<int>();
+                DFS2(node, newGraph, visited, component);
+                SccList.Add(component);
+            }
+        }
+        return SccList;
+    }
+
+    private void DFS2(int start, Dictionary<int, List<int>> newGraph, HashSet<int> visited, List<int> current)
+    {
+        visited.Add(start);
+        current.Add(start);
+        foreach (var item in newGraph[start])
+        {
+            if (!visited.Contains(item))
+            {
+                DFS2(item, newGraph, visited, current);
+            }
+        }
+
+    }
+
+    private void DFS1(int start, HashSet<int> visited, Stack<int> finishingOrder)
+    {
+        visited.Add(start);
+        foreach (var item in graph[start])
+        {
+            if (!visited.Contains(item))
+            {
+                DFS1(item, visited, finishingOrder);
+            }
+        }
+        finishingOrder.Push(start);
     }
 }
 
