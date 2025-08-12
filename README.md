@@ -22,7 +22,7 @@ Each solution is optimized for clarity and efficiency.
 
 | Algorithm       | Description                                      | Link                                               |
 |-----------------|------------------------------------------------|----------------------------------------------------|
-| Merge Sort      | Divide and conquer sorting algorithm — O(n log n) | [Code]https://github.com/Muradxanyann/Projects/blob/main/Algorithms/SortingAlgorithms/MergeSort.cs                 |
+| Merge Sort      | Divide and conquer sorting algorithm — O(n log n) | [Code](https://github.com/Muradxanyann/Projects/blob/main/Algorithms/SortingAlgorithms/MergeSort.cs)                 |
 | Quick Sort      | In-place sorting algorithm with average O(n log n) | [Code](https://github.com/Muradxanyann/Projects/blob/main/Algorithms/SortingAlgorithms/QuickSort.cs)                   |
 
 ---
