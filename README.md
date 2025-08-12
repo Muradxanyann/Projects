@@ -22,8 +22,8 @@ Each solution is optimized for clarity and efficiency.
 
 | Algorithm       | Description                                      | Link                                               |
 |-----------------|------------------------------------------------|----------------------------------------------------|
-| Merge Sort      | Divide and conquer sorting algorithm — O(n log n) | [Code](https://github.com/Muradxanyann/Projects/blob/main/Algorithms/MergeSort.cs)                 |
-| Quick Sort      | In-place sorting algorithm with average O(n log n) | [Code](https://github.com/Muradxanyann/Projects/blob/main/Algorithms/QuickSort.cs)                 |
+| Merge Sort      | Divide and conquer sorting algorithm — O(n log n) | [Code]https://github.com/Muradxanyann/Projects/blob/main/Algorithms/SortingAlgorithms/MergeSort.cs                 |
+| Quick Sort      | In-place sorting algorithm with average O(n log n) | [Code](https://github.com/Muradxanyann/Projects/blob/main/Algorithms/SortingAlgorithms/QuickSort.cs)                   |
 
 ---
 
@@ -33,9 +33,9 @@ Implementations and explanations of fundamental data structures essential for ef
 
 | Data Structure  | Description                                    | Link                                               |
 |-----------------|------------------------------------------------|----------------------------------------------------|
-| Linked List     | Singly linked list with basic operations       | [Code](https://github.com/Muradxanyann/Projects/blob/main/Data_Structures/LinkedList.cs)            |
-| Stack           | Last-In-First-Out (LIFO) collection             | [Code](https://github.com/Muradxanyann/Projects/blob/main/Data_Structures/Stack.cs)                  |
-| Queue           | First-In-First-Out (FIFO) collection             | [Code](https://github.com/Muradxanyann/Projects/blob/main/Data_Structures/Queue.cs)                  |
+| Linked List     | Singly linked list with basic operations       | [Code](https://github.com/Muradxanyann/Projects/blob/main/Data_Structures/Double_LinkedList/Program.cs)             |
+| Stack           | Last-In-First-Out (LIFO) collection             | [Code](https://github.com/Muradxanyann/Projects/blob/main/Data_Structures/Stack/Program.cs)                  |
+| Queue           | First-In-First-Out (FIFO) collection             | [Code](https://github.com/Muradxanyann/Projects/blob/main/Data_Structures/Queue/Program.cs)                  |
 
 ---
 
