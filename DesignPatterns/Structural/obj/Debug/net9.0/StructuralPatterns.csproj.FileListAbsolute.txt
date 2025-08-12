@@ -1,0 +1,15 @@
+/Users/gormuradxanyan/Projects/Homeworks/Design_Pat_task/StructuralPatterns/bin/Debug/net9.0/StructuralPatterns
+/Users/gormuradxanyan/Projects/Homeworks/Design_Pat_task/StructuralPatterns/bin/Debug/net9.0/StructuralPatterns.deps.json
+/Users/gormuradxanyan/Projects/Homeworks/Design_Pat_task/StructuralPatterns/bin/Debug/net9.0/StructuralPatterns.runtimeconfig.json
+/Users/gormuradxanyan/Projects/Homeworks/Design_Pat_task/StructuralPatterns/bin/Debug/net9.0/StructuralPatterns.dll
+/Users/gormuradxanyan/Projects/Homeworks/Design_Pat_task/StructuralPatterns/bin/Debug/net9.0/StructuralPatterns.pdb
+/Users/gormuradxanyan/Projects/Homeworks/Design_Pat_task/StructuralPatterns/obj/Debug/net9.0/StructuralPatterns.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gormuradxanyan/Projects/Homeworks/Design_Pat_task/StructuralPatterns/obj/Debug/net9.0/StructuralPatterns.AssemblyInfoInputs.cache
+/Users/gormuradxanyan/Projects/Homeworks/Design_Pat_task/StructuralPatterns/obj/Debug/net9.0/StructuralPatterns.AssemblyInfo.cs
+/Users/gormuradxanyan/Projects/Homeworks/Design_Pat_task/StructuralPatterns/obj/Debug/net9.0/StructuralPatterns.csproj.CoreCompileInputs.cache
+/Users/gormuradxanyan/Projects/Homeworks/Design_Pat_task/StructuralPatterns/obj/Debug/net9.0/StructuralPatterns.sourcelink.json
+/Users/gormuradxanyan/Projects/Homeworks/Design_Pat_task/StructuralPatterns/obj/Debug/net9.0/StructuralPatterns.dll
+/Users/gormuradxanyan/Projects/Homeworks/Design_Pat_task/StructuralPatterns/obj/Debug/net9.0/refint/StructuralPatterns.dll
+/Users/gormuradxanyan/Projects/Homeworks/Design_Pat_task/StructuralPatterns/obj/Debug/net9.0/StructuralPatterns.pdb
+/Users/gormuradxanyan/Projects/Homeworks/Design_Pat_task/StructuralPatterns/obj/Debug/net9.0/StructuralPatterns.genruntimeconfig.cache
+/Users/gormuradxanyan/Projects/Homeworks/Design_Pat_task/StructuralPatterns/obj/Debug/net9.0/ref/StructuralPatterns.dll

@@ -1,0 +1,14 @@
+/Users/gormuradxanyan/Projects/Homeworks/Design_Pat_task/obj/Debug/net9.0/Design_Pat_task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gormuradxanyan/Projects/Homeworks/Design_Pat_task/obj/Debug/net9.0/Design_Pat_task.AssemblyInfoInputs.cache
+/Users/gormuradxanyan/Projects/Homeworks/Design_Pat_task/obj/Debug/net9.0/Design_Pat_task.AssemblyInfo.cs
+/Users/gormuradxanyan/Projects/Homeworks/Design_Pat_task/obj/Debug/net9.0/Design_Pat_task.csproj.CoreCompileInputs.cache
+/Users/gormuradxanyan/Projects/Homeworks/Design_Pat_task/bin/Debug/net9.0/Design_Pat_task
+/Users/gormuradxanyan/Projects/Homeworks/Design_Pat_task/bin/Debug/net9.0/Design_Pat_task.deps.json
+/Users/gormuradxanyan/Projects/Homeworks/Design_Pat_task/bin/Debug/net9.0/Design_Pat_task.runtimeconfig.json
+/Users/gormuradxanyan/Projects/Homeworks/Design_Pat_task/bin/Debug/net9.0/Design_Pat_task.dll
+/Users/gormuradxanyan/Projects/Homeworks/Design_Pat_task/bin/Debug/net9.0/Design_Pat_task.pdb
+/Users/gormuradxanyan/Projects/Homeworks/Design_Pat_task/obj/Debug/net9.0/Design_Pat_task.dll
+/Users/gormuradxanyan/Projects/Homeworks/Design_Pat_task/obj/Debug/net9.0/refint/Design_Pat_task.dll
+/Users/gormuradxanyan/Projects/Homeworks/Design_Pat_task/obj/Debug/net9.0/Design_Pat_task.pdb
+/Users/gormuradxanyan/Projects/Homeworks/Design_Pat_task/obj/Debug/net9.0/Design_Pat_task.genruntimeconfig.cache
+/Users/gormuradxanyan/Projects/Homeworks/Design_Pat_task/obj/Debug/net9.0/ref/Design_Pat_task.dll
