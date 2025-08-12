@@ -64,8 +64,8 @@ I am a passionate software developer in training, currently focusing on masterin
 This repository showcases my commitment to writing clean, efficient, and well-documented code.
 
 Feel free to connect:  
-- [LinkedIn](#-https://www.linkedin.com/in/gor-muradxanyan/)  
-- [Email](#-gormuradxanyan@gmail.com)  
+- [LinkedIn](#) - https://www.linkedin.com/in/gor-muradxanyan/
+- [Email](#) - gormuradxanyan@gmail.com
 
 ---
 
