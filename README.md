@@ -22,9 +22,8 @@ Each solution is optimized for clarity and efficiency.
 
 | Algorithm       | Description                                      | Link                                               |
 |-----------------|------------------------------------------------|----------------------------------------------------|
-| Binary Search   | Efficient search in sorted arrays — O(log n)   | [Code](./Algorithms/BinarySearch.cs)               |
-| Merge Sort      | Divide and conquer sorting algorithm — O(n log n) | [Code](./Algorithms/MergeSort.cs)                 |
-| Quick Sort      | In-place sorting algorithm with average O(n log n) | [Code](./Algorithms/QuickSort.cs)                 |
+| Merge Sort      | Divide and conquer sorting algorithm — O(n log n) | [Code](https://github.com/Muradxanyann/Projects/blob/main/Algorithms/MergeSort.cs)                 |
+| Quick Sort      | In-place sorting algorithm with average O(n log n) | [Code](https://github.com/Muradxanyann/Projects/blob/main/Algorithms/QuickSort.cs)                 |
 
 ---
 
@@ -34,9 +33,9 @@ Implementations and explanations of fundamental data structures essential for ef
 
 | Data Structure  | Description                                    | Link                                               |
 |-----------------|------------------------------------------------|----------------------------------------------------|
-| Linked List     | Singly linked list with basic operations       | [Code](./Data_Structures/LinkedList.cs)            |
-| Stack           | Last-In-First-Out (LIFO) collection             | [Code](./Data_Structures/Stack.cs)                  |
-| Queue           | First-In-First-Out (FIFO) collection             | [Code](./Data_Structures/Queue.cs)                  |
+| Linked List     | Singly linked list with basic operations       | [Code](https://github.com/Muradxanyann/Projects/blob/main/Data_Structures/LinkedList.cs)            |
+| Stack           | Last-In-First-Out (LIFO) collection             | [Code](https://github.com/Muradxanyann/Projects/blob/main/Data_Structures/Stack.cs)                  |
+| Queue           | First-In-First-Out (FIFO) collection             | [Code](https://github.com/Muradxanyann/Projects/blob/main/Data_Structures/Queue.cs)                  |
 
 ---
 
@@ -46,8 +45,8 @@ Practical examples demonstrating common design patterns and their usage in C#.
 
 | Pattern         | Description                                    | Link                                               |
 |-----------------|------------------------------------------------|----------------------------------------------------|
-| Singleton       | Ensures a class has only one instance           | [Code](./DesignPatterns/Singleton.cs)              |
-| Factory Method  | Creates objects without specifying the exact class | [Code](./DesignPatterns/FactoryMethod.cs)          |
+| Singleton       | Ensures a class has only one instance           | [Code](https://github.com/Muradxanyann/Projects/blob/main/DesignPatterns/Singleton.cs)              |
+| Factory Method  | Creates objects without specifying the exact class | [Code](https://github.com/Muradxanyann/Projects/blob/main/DesignPatterns/FactoryMethod.cs)          |
 
 ---
 
@@ -64,8 +63,8 @@ I am a passionate software developer in training, currently focusing on masterin
 This repository showcases my commitment to writing clean, efficient, and well-documented code.
 
 Feel free to connect:  
-- [LinkedIn](#) - https://www.linkedin.com/in/gor-muradxanyan/
-- [Email](#) - gormuradxanyan@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/gor-muradxanyan/)  
+- [Email](mailto:gormuradxanyan@gmail.com)  
 
 ---
 
