@@ -63,10 +63,10 @@ namespace App
                     await Write();
                     break;
                 case 3:
-                    Update();
+                    await Update();
                     break;
                 case 4:
-                    Delete();
+                    await Delete();
                     break;
             }
         

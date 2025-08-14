@@ -55,7 +55,7 @@ namespace TaskModel
 
     public class DateTimeConverter : JsonConverter<DateTime>
     {
-        private const string Format = "dd-MM-yyyy"; // желаемый формат даты
+        private const string Format = "dd-MM-yyyy"; 
 
         public override DateTime Read(ref Utf8JsonReader reader, Type typeToConvert, JsonSerializerOptions options)
         {
