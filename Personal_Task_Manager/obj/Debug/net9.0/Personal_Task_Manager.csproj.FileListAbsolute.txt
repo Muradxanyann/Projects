@@ -1,0 +1,15 @@
+/Users/gormuradxanyan/Projects/Homeworks/Personal_Task_Manager/bin/Debug/net9.0/Personal_Task_Manager
+/Users/gormuradxanyan/Projects/Homeworks/Personal_Task_Manager/bin/Debug/net9.0/Personal_Task_Manager.deps.json
+/Users/gormuradxanyan/Projects/Homeworks/Personal_Task_Manager/bin/Debug/net9.0/Personal_Task_Manager.runtimeconfig.json
+/Users/gormuradxanyan/Projects/Homeworks/Personal_Task_Manager/bin/Debug/net9.0/Personal_Task_Manager.dll
+/Users/gormuradxanyan/Projects/Homeworks/Personal_Task_Manager/bin/Debug/net9.0/Personal_Task_Manager.pdb
+/Users/gormuradxanyan/Projects/Homeworks/Personal_Task_Manager/obj/Debug/net9.0/Personal_Task_Manager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gormuradxanyan/Projects/Homeworks/Personal_Task_Manager/obj/Debug/net9.0/Personal_Task_Manager.AssemblyInfoInputs.cache
+/Users/gormuradxanyan/Projects/Homeworks/Personal_Task_Manager/obj/Debug/net9.0/Personal_Task_Manager.AssemblyInfo.cs
+/Users/gormuradxanyan/Projects/Homeworks/Personal_Task_Manager/obj/Debug/net9.0/Personal_Task_Manager.csproj.CoreCompileInputs.cache
+/Users/gormuradxanyan/Projects/Homeworks/Personal_Task_Manager/obj/Debug/net9.0/Personal_Task_Manager.sourcelink.json
+/Users/gormuradxanyan/Projects/Homeworks/Personal_Task_Manager/obj/Debug/net9.0/Personal_Task_Manager.dll
+/Users/gormuradxanyan/Projects/Homeworks/Personal_Task_Manager/obj/Debug/net9.0/refint/Personal_Task_Manager.dll
+/Users/gormuradxanyan/Projects/Homeworks/Personal_Task_Manager/obj/Debug/net9.0/Personal_Task_Manager.pdb
+/Users/gormuradxanyan/Projects/Homeworks/Personal_Task_Manager/obj/Debug/net9.0/Personal_Task_Manager.genruntimeconfig.cache
+/Users/gormuradxanyan/Projects/Homeworks/Personal_Task_Manager/obj/Debug/net9.0/ref/Personal_Task_Manager.dll
