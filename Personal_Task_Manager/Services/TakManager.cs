@@ -4,21 +4,23 @@ using TaskModel;
 using System.Threading.Tasks.Dataflow;
 using System.Runtime.InteropServices;
 using System.Globalization;
+using System.Linq;
+
 
 namespace App
 {
     static class TaskManager
     {
-        private static List<TaskItem> tasks = new();
+        private static HashSet<TaskItem> tasks = new();
         public static async Task RunAsync()
         {
-            tasks = new List<TaskItem>();
+            tasks = new HashSet<TaskItem>();
             string folder = Environment.CurrentDirectory;
             string path = Path.Combine(folder, "tasks.json");//will find the path in the current environment
             if (!File.Exists(path))
             {
                 await File.WriteAllTextAsync(path, "[]");
-                tasks = new List<TaskItem>();
+                tasks = new HashSet<TaskItem>();
             }
             else
             {
@@ -28,12 +30,12 @@ namespace App
                     //for getting format dd-mm-yyyy
                     var options = new JsonSerializerOptions();
                     options.Converters.Add(new DateTimeConverter());
-                    tasks = JsonSerializer.Deserialize<List<TaskItem>>(jsonText, options);
+                    tasks = JsonSerializer.Deserialize<HashSet<TaskItem>>(jsonText, options);
                 }
                 catch (JsonException) //protect program - during deserialize can be throw JsonException
                 {
-                    tasks = new List<TaskItem>();
-                    Console.WriteLine("File tasks.json corrupted. A new empty task list has been created.");
+                    tasks = new HashSet<TaskItem>();
+                    Console.WriteLine("File tasks.json corrupted. A new empty task lsit has been created.");
                 }
             }
             int operation;
@@ -75,19 +77,70 @@ namespace App
         }
         public static async Task Write()
         {
-            var (title, priority, deadline) = GetFromConsole();
+            var (title, priority, deadline) = WriteHelper();
             var task = new TaskItem(title, priority, deadline, false);
             tasks.Add(task);
             Console.WriteLine(tasks.Count);
             await SaveTasksToFile(tasks);
         }
 
-        
 
-        public static void Update(){} // TO DO
-        public static void Delete(){} // TO DO
 
-        private static (string title, TaskPriority priority, DateTime deadline) GetFromConsole()
+        public static async Task Update()
+        {
+            await UpdateHelper();
+        }
+
+        private static async Task UpdateHelper()
+        {
+            int id;
+            bool succeed;
+            do
+            {
+                Console.WriteLine("Give an id of the task for update");
+                string answer = Console.ReadLine();
+                succeed = int.TryParse(answer, out id);
+                if (!succeed)
+                    Console.WriteLine("WARNING!!! Enter valid id");
+            } while (!succeed);
+            var updatedTask = tasks.Select(c => c).First();
+            if (updatedTask == null)
+            {
+                Console.WriteLine($"There is not any task with id {id}");
+                return;
+            }
+            updatedTask.MarkTaskAsCompleted();
+            await SaveTasksToFile(tasks);
+        }
+
+        public static async Task Delete()
+        {
+            await DeleteHelper();
+        }
+
+        private static async Task DeleteHelper()
+        {
+            int id;
+            bool succeed;
+            do
+            {
+                Console.WriteLine("Give an id of the task for delete");
+                string answer = Console.ReadLine();
+                succeed = int.TryParse(answer, out id);
+                if (!succeed)
+                    Console.WriteLine("WARNING!!! Enter valid id");
+            } while (!succeed);
+            var updatedTask = tasks.Where(c => c.Id == id).First();
+            if (updatedTask == null)
+            {
+                Console.WriteLine($"There is not any task with id {id}");
+                return;
+            }
+            tasks.Remove(updatedTask);
+            await SaveTasksToFile(tasks);
+        }
+
+        private static (string title, TaskPriority priority, DateTime deadline) WriteHelper()
         {
             //Write Helper function
             string title;
@@ -132,7 +185,6 @@ namespace App
                 Console.WriteLine("Enter the deadline for this task(Format. dd-MM-yyyy)");
 
                 string dateString = Console.ReadLine();
-                var  dtfi = new DateTimeFormatInfo{ ShortDatePattern = "dd-MM-yyyy" };
                 isValid = DateTime.TryParseExact(dateString, "dd-MM-yyyy", CultureInfo.InvariantCulture, DateTimeStyles.None, out parsedDateTime);
             } while (!isValid);
             return (title, priority, parsedDateTime);
@@ -171,7 +223,7 @@ namespace App
             }
             return Task.CompletedTask;
         }
-        public static async Task SaveTasksToFile(List<TaskItem> list)
+        public static async Task SaveTasksToFile(HashSet<TaskItem> list)
         {
             //Automatic task saver in tasks.Json
             string folder = Environment.CurrentDirectory;

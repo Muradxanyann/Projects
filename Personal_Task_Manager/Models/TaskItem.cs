@@ -16,7 +16,7 @@ namespace TaskModel
     {
         Low, Medium, High
     }
-    class TaskItem
+     class TaskItem
     {
         public int Id { get; }
         public string Title { get; private set; }
@@ -38,6 +38,11 @@ namespace TaskModel
             Priority = priority;
             DeadLine = deadline;
             IsCompleted = isCompleted;
+        }
+
+        public void MarkTaskAsCompleted()
+        {
+            IsCompleted = true;
         }
         public override string ToString()
         {
@@ -62,4 +67,6 @@ namespace TaskModel
             writer.WriteStringValue(value.ToString(Format));
         }
     }
+
+
 }
